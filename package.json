@@ -1,0 +1,8 @@
+{
+  "name": "couchdb-playground",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {},
+  "author": "Benjamin Kluck <ben@fug.lu>",
+  "license": "MIT"
+}
