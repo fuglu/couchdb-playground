@@ -4,5 +4,17 @@
   "main": "index.js",
   "repository": {},
   "author": "Benjamin Kluck <ben@fug.lu>",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "lint": "eslint .",
+    "lint:fix": "eslint . --fix"
+  },
+  "dependencies": {
+    "cradle": "^0.7.1"
+  },
+  "devDependencies": {
+    "eslint": "^3.16.1",
+    "eslint-config-airbnb-base": "^11.1.0",
+    "eslint-plugin-import": "^2.2.0"
+  }
 }
